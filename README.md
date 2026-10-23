@@ -10,28 +10,17 @@
 
 <img src="img/github/img1.png" alt="Preview do Site" width="100%">
 <img src="img/github/img2.png" alt="Preview do Site" width="100%">
-<img src="img/github/img3.png" alt="Preview do Site" width="100%">
-<img src="img/github/img4.png" alt="Preview do Site" width="100%">
 
-<p> Um jogo top-down <strong>front-end responsivo</strong> sobre o universo da fotografia, desenvolvido para colocar em prática habilidades como <strong>HTML, CSS e JS</strong>. </p>
+<img src="https://img.shields.io/static/v1?message=Sobre%200%20Jogo&label=&color=545454&labelColor=&style=for-the-badge" height="25" alt="Sobre o jogo" />
+<p> Inspirado no clássico Brotato, Hamstorm é um jogo top-down arena shooter com elementos roguelike (jogo de tiro com área limitada; fases cronometradas; se morrer, recomeça). </p> <br>
 
-<br>
+<img src="https://img.shields.io/static/v1?message=Objetivo&label=&color=ED008C&labelColor=&style=for-the-badge" height="25" alt="Objetivo" />
+<p> Jogador controla um hamster armado e precisa sobreviver a ondas de inimigos até enfrentar o boss final. </p> <br>
 
-<img src="https://img.shields.io/static/v1?message=O%20projeto%20aborda%20alguns%20temas%20sobre%20fotografia,%20como:&label=&color=538393&style=for-the-badge" height="30" alt="Descrição" />
-
-- História da fotografia
-- 15 fotografias históricas
-- 5 fotógrafos famosos
-- Tipos e estilos de fotografias
-- Destaques de premiações, como o Sony World Photography Awards 2024
-- Guia para iniciantes
-
-<br>
-
-<img src="https://img.shields.io/static/v1?message=Principais%20funcionalidades:&label=&color=538393&style=for-the-badge" height="30" alt="Descrição" />
-
-- 🌗 Tema claro e escuro: pode alterar os modos de visualização
-- 📝 Formulários: estruturalmente prontos em HTML
-- 🖼️ Galeria de imagens: apresentação organizada das fotografias
-
-<br>
+<img src="https://img.shields.io/static/v1?message=Ferramentas%20e%20Tecnologias&label=&color=ED008C&labelColor=&style=for-the-badge" height="25" alt="Ferramentas" />
+<ul>
+  <li>Linguagem e Biblioteca: C++ com Raylib</li>
+  <li>Ambiente de Desenvolvimento: Visual Studio Code (VS Code)</li>
+  <li>Arte e Elementos Visuais: Criados no Aseprite e recursos do Itch.io</li>
+  <li>Efeitos Sonoros e Musicas: Pixabay</li>
+</ul>
